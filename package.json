@@ -10,8 +10,15 @@
     "@angular/platform-browser": "^8.0.0",
     "@angular/platform-browser-dynamic": "^8.0.0",
     "@angular/router": "^8.0.0",
+    "@clr/angular": "^3.0.0",
+    "@clr/core": "3.0.0",
+    "@clr/icons": "3.0.0",
+    "@clr/ui": "3.0.0",
+    "@webcomponents/custom-elements": "^1.0.0",
     "core-js": "2",
     "rxjs": "^6.5.2",
+    "tslib": "^1.10.0",
+    "xterm": "^4.4.0",
     "zone.js": "^0.9.1"
   },
   "scripts": {
